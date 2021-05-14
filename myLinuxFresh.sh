@@ -93,5 +93,8 @@ apt-get install chromium-browser
 ###############################################
 snap install vlc
 
-
+###############################################
+# Installing Tree - CLI Directory Structure Utility
+###############################################
+snap install tree
 
