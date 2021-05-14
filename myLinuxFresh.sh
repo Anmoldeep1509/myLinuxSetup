@@ -15,3 +15,5 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
 # Youtube-DL
 pip3 install --upgrade youtube_dl -y
 
+# Powertop - Power consuption optimization utility
+apt-get install powertop -y
