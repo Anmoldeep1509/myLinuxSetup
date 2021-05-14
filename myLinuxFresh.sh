@@ -4,6 +4,9 @@
 apt update
 apt upgrade -y
 
+#Install Curl - downloading utility
+apt-get install curl -y
+
 # Utility - nvbn/thefuck
 apt update
 apt install python3-dev python3-pip python3-setuptools -y
@@ -17,3 +20,4 @@ pip3 install --upgrade youtube_dl -y
 
 # Powertop - Power consuption optimization utility
 apt-get install powertop -y
+
